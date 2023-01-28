@@ -1,0 +1,3 @@
+Difference between Gradient descent and OLS (Ordinary least square regression/linear regression)
+https://datascience.stackexchange.com/questions/110010/difference-between-ols-and-gradient-descent-in-linear-regression
+https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution

@@ -1,0 +1,9 @@
+.info()
+.describe()
+.valuecounts()
+.values() # takes pandas series > converts to iterable list 
+.shape()
+type()
+
+df.left ==1 #series of boolean values if it is 1 or else false
+df[df.left ==1] #creates a dataframe where column left is 1
